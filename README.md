@@ -48,6 +48,7 @@
 ### 📬 Contato
 
 <p>
+  <a href="https://diogocoutinho.github.io/">Portfólio</a>
   <a href="mailto:diogo.coutinho.ads@gmail.com">diogo.coutinho.ads@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/diogoccoutinho/" target="_blank">LinkedIn</a>
 </p>
